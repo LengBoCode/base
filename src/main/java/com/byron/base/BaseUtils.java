@@ -11,4 +11,8 @@ public class BaseUtils {
     public static String getDbHello(){
         return DbUtils.getHello();
     }
+
+    public static String getBaseHello() {
+        return "I am base";
+    }
 }

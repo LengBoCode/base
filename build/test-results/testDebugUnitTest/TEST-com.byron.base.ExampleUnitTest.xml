@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.byron.base.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-18T10:49:44" hostname="BYRONLENG-MB0" time="0.003">
+<testsuite name="com.byron.base.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-29T13:43:11" hostname="BYRONLENG-MB0" time="0.0">
   <properties/>
-  <testcase name="addition_isCorrect" classname="com.byron.base.ExampleUnitTest" time="0.003"/>
+  <testcase name="addition_isCorrect" classname="com.byron.base.ExampleUnitTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
