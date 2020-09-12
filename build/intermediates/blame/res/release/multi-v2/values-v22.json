@@ -4,7 +4,7 @@
             "outputFile": "/Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/base/build/intermediates/res/merged/release/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/Users/byronleng/.gradle/caches/transforms-2/files-2.1/0d361a94abe0ed43413a971296cb39a2/appcompat-1.2.0/res/values-v22/values-v22.xml",
+                    "source": "/Users/byronleng/.gradle/caches/transforms-2/files-2.1/f42476cf1f9ef9b67a0981892184a327/appcompat-1.2.0/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",
@@ -20,7 +20,7 @@
             "outputFile": "/Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/base/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/Users/byronleng/.gradle/caches/transforms-2/files-2.1/0d361a94abe0ed43413a971296cb39a2/appcompat-1.2.0/res/values-v22/values-v22.xml",
+                    "source": "/Users/byronleng/.gradle/caches/transforms-2/files-2.1/f42476cf1f9ef9b67a0981892184a327/appcompat-1.2.0/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

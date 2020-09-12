@@ -15,6 +15,7 @@ public abstract class BaseProvider {
 
     protected abstract void registerAction();
 
+
     public void invokeAction(String action,Response response, Object... params) {
         actions.get(action).execute(response, params);
     }

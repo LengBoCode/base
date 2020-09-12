@@ -10,7 +10,7 @@
         summary="Obsolete custom lint check"
         explanation="Lint can be extended with &quot;custom checks&quot;: additional checks implemented by developers and libraries to for example enforce specific API usages required by a library or a company coding style guideline.&#xA;&#xA;The Lint APIs are not yet stable, so these checks may either cause a performance degradation, or stop working, or provide wrong results.&#xA;&#xA;This warning flags custom lint checks that are found to be using obsolete APIs and will need to be updated to run in the current lint environment.&#xA;&#xA;It may also flag issues found to be using a **newer** version of the API, meaning that you need to use a newer version of lint (or Android Studio or Gradle plugin etc) to work with these checks.">
         <location
-            file="/Users/byronleng/.gradle/caches/transforms-2/files-2.1/0d361a94abe0ed43413a971296cb39a2/appcompat-1.2.0/jars/lint.jar"/>
+            file="/Users/byronleng/.gradle/caches/transforms-2/files-2.1/f42476cf1f9ef9b67a0981892184a327/appcompat-1.2.0/jars/lint.jar"/>
     </issue>
 
     <issue
