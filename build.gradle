@@ -49,7 +49,7 @@ publishing {
         bar(MavenPublication) {
             groupId 'com.byron'
             artifactId 'base'
-            version '1.0.0'
+            version '1.0.1'
             artifact(sourceJar)
 
             artifact("$buildDir/outputs/aar/base-release.aar")
@@ -66,7 +66,7 @@ publishing {
     }
     repositories {
         maven {
-            url "../../repo"
+            url "/Users/byronleng/Desktop/Study/Project/Android/Component/repo"
         }
     }
 }

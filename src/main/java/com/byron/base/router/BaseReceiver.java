@@ -3,13 +3,13 @@ package com.byron.base.router;
 import java.util.HashMap;
 
 /**
- * 每个需要被调起的组件内都有一个provider
- * 一个provider组件内包含多个通信的具体动作action
+ * 每个需要被调用的组件内都有一个receiver
+ * 一个receiver组件内包含多个通信的具体动作action
  */
-public abstract class BaseProvider {
+public abstract class BaseReceiver {
     protected HashMap<String, BaseAction> actions = new HashMap<>();
 
-    public BaseProvider(){
+    public BaseReceiver(){
         registerAction();
     }
 

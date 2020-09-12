@@ -798,6 +798,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_a_main
 layout custom_dialog
 layout notification_action
 layout notification_action_tombstone
@@ -836,6 +837,7 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string from_net
 string search_menu_title
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat
